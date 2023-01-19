@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  App.cpp
+  cubemap.cpp
+  Font.cpp
+  FontPlot.cpp
+  ShaderProgram.cpp
+  Texture.cpp
+  Window.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+V:\DEVELOPER\University Projects\Libraries\glfw-3.3\include\GLFW\glfw3.h(104): message : see previous definition of 'APIENTRY'
+  Generating Code...
+  SOF.vcxproj -> V:\DEVELOPER\University Projects\SOF\Debug\SOF.lib

@@ -1,0 +1,29 @@
+﻿  Scene.cpp
+V:\DEVELOPER\University Projects\RenderLib\SphereGeom.h(93,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\CubeGeom.h(63,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\QuadGeom.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\CylinderGeom.h(18,16): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+V:\DEVELOPER\University Projects\RenderLib\CylinderGeom.h(100,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\CrownGeom.h(397,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\ArchwayGeom.h(367,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Node.h(15,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Node.h(17,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\PolyLine.h(13,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Spline.h(19,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Spline.h(21,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Spline.h(66,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\RenderLib\Spline.h(114,87): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(83,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(127,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(131,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(227,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(227,57): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(300,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(398,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(398,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+V:\DEVELOPER\University Projects\SOFApp\Scene.cpp(399,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SOFApp.vcxproj -> V:\DEVELOPER\University Projects\Debug\SOFApp.exe
